@@ -1,3 +1,4 @@
 const fs = require('fs') 
 
-fs.writeFileSync('notes.txt','This file was created by node js')
+fs.writeFileSync('notes.txt','This file was created by node js Kiran')
+fs.appendFileSync('notes.txt',' SM')
