@@ -1,6 +1,25 @@
 {
   "dependencies": {
     "chalk": "^2.4.1",
-    "validator": "^13.11.0"
-  }
+    "validator": "^13.11.0",
+    "yarg": "^1.0.7",
+    "yargs": "^17.7.2"
+  },
+  "name": "basics",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiran-sm/nodeLearning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiran-sm/nodeLearning/issues"
+  },
+  "homepage": "https://github.com/kiran-sm/nodeLearning#readme",
+  "description": ""
 }
